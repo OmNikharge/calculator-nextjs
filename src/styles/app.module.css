@@ -1,0 +1,77 @@
+
+#outerbody{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0e0419;
+}
+
+.calculatorcard{
+   width: max-content;
+   background-color: white;
+   display: flex;
+   border: 4px solid black;
+   flex-direction: column;
+   justify-content: center;
+   border-radius: 10px;
+}
+
+.display{
+    height: 145px;
+    font-size:xx-large;
+    display: flex;
+    flex-direction: column;
+    padding: 35px 20px;
+    color: white;
+    align-items: flex-end;
+    justify-content: center;
+    
+    background-color: #040D12;
+    margin: 8px 8px 0px 8px;
+    border-radius: 10px;
+    
+}
+
+#newNum{
+    margin-top: 24px;
+}
+
+.inputscreen{
+    background-color: white;
+    font-size: x-large;
+    margin-top: 10px;
+    width: 448px;
+    height: 466px;
+    padding: 6px 6px 6px 6px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.inputbtn{
+    background-color: whitesmoke;
+    border: 4px solid black;
+    font-weight: bolder;
+    border-radius: 8px;
+    height: 90px;
+    width: 107px;
+    margin: 0 1px;
+}
+
+#ac{
+    width: 165px;
+}
+
+#del{
+  width: 165px;
+}
+
+#divide{
+    width: 100px;
+}
+
+#equals{
+    width: 216px;
+}
+
