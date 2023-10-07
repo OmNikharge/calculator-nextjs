@@ -85,9 +85,11 @@ export default function Home() {
    return (
       <div id={styles.outerbody}>
          <div className={styles.calculatorcard}>
-            <div className={styles.display}>
+            <div className={styles.displaycard}>
+               <div className={styles.display}>
                <div><span>{exp}</span></div>
                <div id={styles.newNum}><span>{newNum}</span></div>
+            </div>
             </div>
             <div className={styles.inputscreen}>
                <button className={styles.inputbtn} id={styles.ac} onClick={() => { setExp("Ans=0"), setNewNum("0"), setFreshState(true) }}>AC</button>
