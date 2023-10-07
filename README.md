@@ -1,6 +1,6 @@
 # Next.js Calculator App
 
-![Calculator App Screenshot](images/ui.png)
+![Calculator App Screenshot](images/ui.PNG)
 
 This is a simple calculator web application built using Next.js, TypeScript, and vanila CSS. It provides basic calculator functionality, including addition, subtraction, multiplication, and division. You can use this app to perform various calculations conveniently in your web browser.
 
