@@ -5,7 +5,7 @@ This is a simple calculator web application built using Next.js, TypeScript, and
 ## Live Demo
 You can try the live demo of this calculator app by visiting the following link:
 
-Live Demo (Add the Vercel link here)
+Live Demo: https://calculator-nextjs-nine.vercel.app/
 
 ## Features
 
